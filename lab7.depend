@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1774990432 source:c:\users\cheen\downloads\lab7codeblock\lab7\memory.c
+	"header.h"
+	<time.h>
+
+1774990996 c:\users\cheen\downloads\lab7codeblock\lab7\header.h
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<sys/param.h>
+	<stdbool.h>
+	<ctype.h>
+
+1768320611 source:c:\users\cheen\downloads\lab7codeblock\lab7\parser.c
+	"header.h"
+	"parser.h"
+
+1768320611 c:\users\cheen\downloads\lab7codeblock\lab7\parser.h
+	<string.h>
+
+1774990214 source:c:\users\cheen\downloads\lab7codeblock\lab7\lab7.c
+	"header.h"
+
+1774991047 source:c:\users\cheen\downloads\lab7codeblock\lab7\main.c
+	"header.h"
+
