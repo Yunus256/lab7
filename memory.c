@@ -53,7 +53,7 @@ char *init_memory()
 
     for (i = 0; i < MEM_SIZE; i++)
     {
-        mem[i] = rand_generator();
+        mem[i] = 0;
     }
 
     return mem;
