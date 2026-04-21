@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1774990432 source:c:\users\cheen\downloads\lab7codeblock\lab7\memory.c
+1775935320 source:c:\users\cheen\downloads\lab7codeblock\lab7\memory.c
 	"header.h"
 	<time.h>
 
@@ -23,6 +23,12 @@
 1774990214 source:c:\users\cheen\downloads\lab7codeblock\lab7\lab7.c
 	"header.h"
 
-1774991047 source:c:\users\cheen\downloads\lab7codeblock\lab7\main.c
+1775933490 source:c:\users\cheen\downloads\lab7codeblock\lab7\main.c
 	"header.h"
+
+1776813016 source:c:\users\cheen\downloads\lab7codeblock\lab7\lab8_9.c
+	"header.h"
+	"lab8header.h"
+
+1775931255 c:\users\cheen\downloads\lab7codeblock\lab7\lab8header.h
 
